@@ -1,0 +1,6 @@
+sku,title,brand,category,raw_description,price,in_stock
+VALV-SS-100,"1/2 NPT Ball Valve 316SS 1000PSI",ValvTech,Valves,"Stainless steel ball valve 316 grade. Female NPT threads 1/2 in. Max pressure 1000 WOG. PTFE seat.",45.50,True
+FAST-HEX-001,"M8x1.25 Hex Head Cap Screw 304SS 30mm",FastenPro,Fasteners,"M8 metric hex bolt, 30mm length, 1.25 pitch, 304 stainless steel DIN 933.",1.20,True
+ELEC-CONT-40,"24VDC 3-Pole 40A Industrial Contactor",ElecControl,,"3P 40 amp power contactor with 24V DC coil voltage. DIN rail mounting.",78.00,False
+PUMP-CENT-05,"0.5 HP Centrifugal Water Pump 110V",HydroPump,Pumps,"0.5HP 110V 60Hz single phase clear water pump, 1.5 in inlet/outlet, max flow 35 GPM.",129.99,True
+BEAR-6204-2RS,"6204-2RS Rubber Sealed Deep Groove Ball Bearing",RollBear,,"20x47x14 mm deep groove ball bearing, double rubber seals, chrome steel.",8.50,True
